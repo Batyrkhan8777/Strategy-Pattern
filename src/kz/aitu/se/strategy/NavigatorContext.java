@@ -2,7 +2,7 @@ package kz.aitu.se.strategy;
 
 /**
  * Context class that holds a reference to a RouteStrategy
- * Author: Batyrkhan Bakhadir
+
  */
 public class NavigatorContext {
     private RouteStrategy strategy;

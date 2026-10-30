@@ -2,7 +2,6 @@ package kz.aitu.se.strategy;
 
 /**
  * Concrete Strategy: Walking Navigation
- * Author: Batyrkhan Bakhadir
  */
 public class WalkStrategy implements RouteStrategy {
     @Override
