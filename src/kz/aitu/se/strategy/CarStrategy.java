@@ -2,7 +2,6 @@ package kz.aitu.se.strategy;
 
 /**
  * Concrete Strategy: Car Navigation
- * Author: Batyrkhan Bakhadir
  */
 public class CarStrategy implements RouteStrategy {
     @Override

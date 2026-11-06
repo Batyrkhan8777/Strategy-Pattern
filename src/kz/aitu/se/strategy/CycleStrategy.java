@@ -2,7 +2,6 @@ package kz.aitu.se.strategy;
 
 /**
  * Concrete Strategy: Cycling Navigation
- * Author: Batyrkhan Bakhadir
  */
 public class CycleStrategy implements RouteStrategy {
     @Override

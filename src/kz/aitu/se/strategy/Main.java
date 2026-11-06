@@ -2,7 +2,6 @@ package kz.aitu.se.strategy;
 
 /**
  * Client class demonstrating route planning and runtime strategy switching
- * Author: Batyrkhan Bakhadir
  */
 public class Main {
     public static void main(String[] args) {
